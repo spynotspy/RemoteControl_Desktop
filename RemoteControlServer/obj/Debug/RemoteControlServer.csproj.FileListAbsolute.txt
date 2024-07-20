@@ -1,0 +1,11 @@
+C:\Users\Dima\source\repos\RemoteControlServer\RemoteControlServer\bin\Debug\RemoteControlServer.exe.config
+C:\Users\Dima\source\repos\RemoteControlServer\RemoteControlServer\bin\Debug\RemoteControlServer.exe
+C:\Users\Dima\source\repos\RemoteControlServer\RemoteControlServer\bin\Debug\RemoteControlServer.pdb
+C:\Users\Dima\source\repos\RemoteControlServer\RemoteControlServer\obj\Debug\RemoteControlServer.csproj.AssemblyReference.cache
+C:\Users\Dima\source\repos\RemoteControlServer\RemoteControlServer\obj\Debug\RemoteControlServer.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dima\source\repos\RemoteControlServer\RemoteControlServer\obj\Debug\RemoteControlServer.csproj.CoreCompileInputs.cache
+C:\Users\Dima\source\repos\RemoteControlServer\RemoteControlServer\obj\Debug\RemoteControlServer.exe
+C:\Users\Dima\source\repos\RemoteControlServer\RemoteControlServer\obj\Debug\RemoteControlServer.pdb
+C:\Users\Dima\source\repos\RemoteControlServer\RemoteControlServer\bin\Debug\WindowsInput.dll
+C:\Users\Dima\source\repos\RemoteControlServer\RemoteControlServer\bin\Debug\WindowsInput.xml
+C:\Users\Dima\source\repos\RemoteControlServer\RemoteControlServer\obj\Debug\RemoteControlServer.csproj.CopyComplete
